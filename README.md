@@ -1,5 +1,5 @@
 # Overview
-This code uses the MNIST dataset to train a simple neural network model in Keras. The purpose of this code is to demonstrate the basics of neural network modeling and training in Keras, as well as provide a foundation for more complex models.
+This code uses the MNIST dataset to train a simple neural network model in Keras and a convolutional neural network using Tensorflow.
 
 # Dataset
 The MNIST dataset contains images of handwritten digits (0-9). The dataset is divided into 60,000 training images and 10,000 test images. Each image is a 28x28 grayscale image.
